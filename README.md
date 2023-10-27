@@ -1,6 +1,7 @@
 # Data-analysis_excel_E-commerce-Vrinda-Store-report-
 
 Vrinda Store report is the data analysis and visualization project performed using Excel for sales data of 2022. This report highlights the purchasing pattern and sales pattern based on different parameters which will help business stake holders to make and execute decisions based on the insights generated. Some of the key insights are as follows:
+![Vrinda store annual report](https://github.com/Harikrishnan-Nair/Data-analysis_excel_E-commerce-Vrinda-Store-report-/assets/95662379/cb4b438e-6cac-4f54-a33d-41766c1e93fc)
 
 Key Insights:
 1. Majority of the orders are received from three chanels namely - Aamzon, Flipkart, Myntra. So focussing on this channels can boost sales
